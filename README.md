@@ -161,7 +161,7 @@ You can find all you need to know about the Certification on its official [page]
 #### Resources
 
 - [Cilium BGP Use Cases](https://cilium.io/use-cases/bgp/) 📖
-- [Cilium BGP Control Plane - Cilium Docs](https://docs.cilium.io/en/stable/network/bgp-control-plane/) 📖
+- [Cilium BGP Control Plane - Cilium Docs](https://docs.cilium.io/en/stable/network/bgp-control-plane/bgp-control-plane/) 📖
 - [Cilium BGP Service Advertisement](https://www.youtube.com/watch?v=Nzh2jc6qW6Y) 📺
 - [BGP on Cilium - Lab](https://isovalent.com/labs/bgp-on-cilium/) 🥼
 - [Cilium LoadBalancer IPAM and BGP Service Advertisement - Lab](https://isovalent.com/labs/lb-ipam-bgp-service/) 🥼
